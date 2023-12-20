@@ -1,5 +1,5 @@
 # About Me:
-🔭 Currently studying full stack development at Holberton School Uruguay.<br>🌱 I’m currently learning Python.<br>💬 Ask me about useless videogame facts.<br>⚡ Fun fact: I've played Portal 2 more times that I'd like to admit.
+🔭 Currently studying AR/VR development at Holberton School Uruguay.<br>🌱 I’m currently learning Unity.<br>💬 Ask me about useless videogame facts.<br>⚡ Fun fact: I've played Portal 2 more times that I'd like to admit.
 
 
 ## 🌐 Socials:
